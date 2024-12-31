@@ -1,3 +1,6 @@
+## All credits goes to <b><a href="https://github.com/vm03">@vm03</a></b><br>
+I'm just simplying his work for termux with scripts go get the payload with ease
+
 # payload dumper
 Script tested on Yandex Amber OTA's (full and incremental) under Linux (but may works on Windows too)
 
